@@ -6,9 +6,10 @@ Here is a growing collection of resources and helpful commands to know when work
 
 ## Git Commands
 - [git config](./commands/config.md)
-- [git init](./command/init.md)
-- [git add](./command/add.md)
-- [git commit](./command/commit.md)
-- [git remote](./command/remote.md)
-- [git push](./command/push.md)
-- [git pull](./command/pull.md)
+- [git init](./commands/init.md)
+- [git add](./commands/add.md)
+- [git commit](./commands/commit.md)
+- [git remote](./commands/remote.md)
+- [git push](./commands/push.md)
+- [git pull](./commands/pull.md)
+- [git status](./commands/status.md)
